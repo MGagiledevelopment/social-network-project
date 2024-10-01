@@ -1,9 +1,7 @@
 # FULLSTACK PROJECT 💻 ✅
 
- El desafío se basó poder construir una aplicación web entera, haciendo foco en el front end y sin necesidad de codear el back end. Visualización de datos mientras se incorporan librerías gráficas hechas con React.
+The challenge was build an entire web application, focusing on the front end and without having to code the back end. Data visualization while incorporating graphical libraries made with React.
 
+# LINK TO THE APP:👨🏽‍💻
 
-
-# ENLACE A LA APLICACIÓN:👨🏽‍💻
-
- https://final-fullstack-project.netlify.app/
+https://final-fullstack-project.netlify.app/
