@@ -4,4 +4,4 @@ The challenge was to create a complete web application that simulates a "Twitter
 
 # LINK TO THE APP:👨🏽‍💻
 
-social-network-project.netlify.app
+https://social-network-project.netlify.app
